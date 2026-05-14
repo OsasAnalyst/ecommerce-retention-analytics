@@ -233,6 +233,10 @@ Freelance Data Analyst and Chartered Accountant
 Specialising in churn modelling, LTV forecasting, and customer segmentation for DTC and e-commerce brands
 
 Portfolio: datascienceportfol.io
+
 LinkedIn: linkedin.com/in/osaretin-idiagbonmwen-33ab85339
+
 GitHub: github.com/osasanalyst
+
 Email: oidiagbonmwen@gmail.com
+
